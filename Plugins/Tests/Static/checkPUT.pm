@@ -19,7 +19,7 @@ sub execute(){
 
 	$func->write("|"." "x99);
 	$func->write("|"." "x99);
-	$func->write("| Test PUT mothod:");
+	$func->write("| Test PUT method:");
     &CheckPut($url);
 	}
 
